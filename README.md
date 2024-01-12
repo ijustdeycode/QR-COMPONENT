@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://https://github.com/ijustdeycode/QR-COMPONENT.git)
+- Live Site URL: [NETLIFY](https://https://incredible-begonia-05fd51.netlify.app/)
 
 
 
